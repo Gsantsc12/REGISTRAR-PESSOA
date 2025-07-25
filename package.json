@@ -1,0 +1,13 @@
+{
+  "name": "cypress-api-registrar-pessoa",
+  "version": "1.0.0",
+  "description": "Projeto Cypress para automatizar o cadastro de pessoa via API",
+  "scripts": {
+    "test": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.7.3",
+    "dotenv": "^16.3.1"
+  }
+}

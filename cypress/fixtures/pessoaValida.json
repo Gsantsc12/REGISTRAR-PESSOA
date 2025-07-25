@@ -1,0 +1,16 @@
+{
+  "razao_social": "Gabriel Pier",
+  "cnpj_cpf": "707.379.550-66",
+  "insc_est": "ISENTO",
+  "email": "gabriel.teste@gmail.com",
+  "sigla_cliente": "HNK",
+  "exige_agendamento": false,
+  "influencer": true,
+  "logradouro": "Rua Juan vicente",
+  "bairro": "Jd bandeiras",
+  "cidade": "Osasco",
+  "uf": "SP",
+  "cep": "06160180",
+  "ibge": "3505707",
+  "numero": "847"
+}
