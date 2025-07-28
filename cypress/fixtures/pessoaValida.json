@@ -1,8 +1,8 @@
 {
-  "razao_social": "Gabriel Pier",
-  "cnpj_cpf": "707.379.550-66",
+  "razao_social": "Gabriel Pier tesst",
+  "cnpj_cpf": "625.471.230-02",
   "insc_est": "ISENTO",
-  "email": "gabriel.teste@gmail.com",
+  "email": "gabriel@teste.com",
   "sigla_cliente": "HNK",
   "exige_agendamento": false,
   "influencer": true,
